@@ -1,0 +1,9 @@
+N <- 7.
+PI <- 3.
+ROUND <- 9.
+var<- "hello" + "world".
+N<-1. var<-N.
+VAR<-1. N<-VAR.
+var2 <- xx-yy.
+var3 <- -xx.
+= "this is an expression so it can be the last item in program".
