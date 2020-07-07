@@ -1,4 +1,4 @@
-# Project 02: Syntax Analysis
+# Phase 02: Syntax Analysis
 ## 1. What is syntax analysis and how is it related to other parts in compilation?
 Syntax analysis, or parsing, is the process of analysing a set of symbols 
 according to the grammar rules, which is the second stage of a compilation process.

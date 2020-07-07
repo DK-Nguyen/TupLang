@@ -1,4 +1,4 @@
-# Project 03: Syntax Tree
+# Phase 03: Syntax Tree
 ## 1. What is an (abstract) syntax tree and how is it related to other parts in compilation?
 In the compiling process of a typical programming language, syntax tree comes after the syntax analyzer. 
 First, the lexical analyzer takes the code written in the programming language and creates a set of

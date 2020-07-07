@@ -1,4 +1,4 @@
-# Project 01: Lexical Analysis
+# Phase 01: Lexical Analysis
 ## 1. What is lexical analysis and how is it related to other parts in compilation?  
 
 Lexical Analysis is the process of converting a 
